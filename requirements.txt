@@ -5,5 +5,5 @@ Pillow
 PyMuPDF
 pandas
 asyncio
-playwright
+playwright>=1.30.0
 openpyxl
