@@ -1,4 +1,5 @@
-streamlit
+streamlit>=1.10.0
+anyio>=3.0
 google-generativeai
 Pillow
 PyMuPDF
